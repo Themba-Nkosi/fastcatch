@@ -1,0 +1,101 @@
+Project Title:
+Fast Catch Security – Modern, Professional Security Company Website
+
+Design Style:
+Bold, minimalistic, and professional with strong red, blue, grey, and white theme. Inspired by the existing branding. Use modern fonts (e.g., Montserrat or Poppins), soft animations, and smooth scroll.
+
+✅ Page Sections to Include
+Sticky Header:
+
+Logo (top-left): Red Dog + “FAST CATCH SECURITY”
+
+Menu: Home | About | Services | Contact
+
+Right Button: “Take Action” (in red)
+
+Hero Section:
+
+Large title: “Welcome To FASTCATCH SECURITY”
+
+Subtext: None or keep it subtle
+
+Button: “Learn More” (red, centered)
+
+Background: Fullscreen grey background
+
+About Section:
+
+Heading: “Fast Catch Security is a Black Owned Company”
+
+Text:
+“We offer tailored solutions for clients in need of Security Services.
+We lead from the front and set the standard in being totally hardworking, professional and ethical.
+We are a proudly South African company understanding the needs and the challenges of our country.”
+
+Button: “Learn More” (red, centered)
+
+Mission / Values / Vision Section (3-column layout or stacked):
+
+Mission: Provide qualified, experienced, continuously trained staff. Promote integrity, professionalism, and reward excellence.
+
+Values: Service excellence, governance, best labor practices, empathy, dignity, and goal orientation.
+
+Vision: Become the leading security partner for clients in infrastructure and asset protection.
+
+Include Dog Logo in background or side.
+
+Services Section:
+
+Heading: “Services”
+
+Subtext:
+“Security services (Armed and Unarmed).
+Access Control and Monitoring Systems.
+Patrol and Reaction Services.
+K-9 Unit.”
+
+2 Cards:
+
+Corporate Protection (image of smiling male and female guards)
+
+Industrial & Construction (image of female guard near machinery)
+
+Structured Fees Section:
+
+Title: “STRUCTURED FEES”
+
+Text:
+“We offer a highly competitive fee structure, while adhering to labor laws and valuing our human capital.”
+
+Background color: Red
+
+Image: Branded fleet of red Fast Catch Security vehicles
+
+Clients Section:
+
+Heading: “Our Clients”
+
+Grid of logos including:
+
+Gauteng Province
+
+CE Mobility
+
+GPF
+
+SKS
+
+TEMI Construction
+
+JOSHCO
+
+Khabomom Construction
+
+Footer:
+
+Include company name, quick links (Home, About, Services, Contact)
+
+Contact info: Email, phone number, address
+
+Copyright info
+
